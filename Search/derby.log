@@ -1,0 +1,16 @@
+----------------------------------------------------------------
+Thu Sep 12 16:02:40 KST 2024:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance a816c00e-0191-e50a-9159-000001cb18d0 
+on database directory memory:C:\Users\User\Downloads\Coding\Cloud\Book-Search-Backend-API 555\5b6ea8f4-bd90-4c18-948d-dc23c739ee48 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@6d06d69c 
+Loaded from file:/C:/Users/User/.gradle/caches/modules-2/files-2.1/org.apache.derby/derby/10.16.1.1/f9ca2054b3e33ec3f3f19df4a7490352d82de54a/derby-10.16.1.1.jar
+java.vendor=Microsoft
+java.runtime.version=17.0.11+9-LTS
+user.dir=C:\Users\User\Downloads\Coding\Cloud\Book-Search-Backend-API 555
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Thu Sep 12 16:02:44 KST 2024:
+Shutting down instance a816c00e-0191-e50a-9159-000001cb18d0 on database directory memory:C:\Users\User\Downloads\Coding\Cloud\Book-Search-Backend-API 555\5b6ea8f4-bd90-4c18-948d-dc23c739ee48 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@6d06d69c 
